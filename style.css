@@ -2,10 +2,10 @@ body{
     text-align: center;
     margin: 0;
     padding-top: 20px;
-    background:linear-gradient(#589fa6 0%,#052629 100%);
+    background:black;
 }
 p{
-    color:darkgray;
+    color:aqua;
     font-size: 18px;
     font-family: 'Antic Slab', serif;
 }
